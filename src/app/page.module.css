@@ -1,0 +1,50 @@
+.main {
+    padding: 40px;
+    background-color: #18453B;
+    height: 100vh;
+    width: 100vw;
+}
+    
+.h1 {
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.h2 {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.text {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 200;
+    padding-bottom: 20px;
+    list-style-type:decimal-leading-zero;
+}
+
+.text li {
+    list-style-type: decimal;
+    list-style-position: inside;
+    /* margin-left: 1em; */
+}
+
+.container {
+    padding-bottom: 24px;
+}
+
+.fileInput {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.dataDashboard {
+    background-color: #fff;
+    margin-top: 20px;
+    padding: 10px;
+    min-height: 200px;
+    color: #000;
+}
